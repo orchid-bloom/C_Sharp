@@ -1,0 +1,5 @@
+/Users/tianXin/C#/C#运算符/Operator/bin/Debug/Operator.exe
+/Users/tianXin/C#/C#运算符/Operator/bin/Debug/Operator.pdb
+/Users/tianXin/C#/C#运算符/Operator/obj/x86/Debug/Operator.csproj.CoreCompileInputs.cache
+/Users/tianXin/C#/C#运算符/Operator/obj/x86/Debug/Operator.exe
+/Users/tianXin/C#/C#运算符/Operator/obj/x86/Debug/Operator.pdb

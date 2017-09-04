@@ -1,0 +1,5 @@
+/Users/tianXin/C#/TypeConversion/TypeConversion/bin/Debug/TypeConversion.exe
+/Users/tianXin/C#/TypeConversion/TypeConversion/bin/Debug/TypeConversion.pdb
+/Users/tianXin/C#/TypeConversion/TypeConversion/obj/x86/Debug/TypeConversion.csproj.CoreCompileInputs.cache
+/Users/tianXin/C#/TypeConversion/TypeConversion/obj/x86/Debug/TypeConversion.exe
+/Users/tianXin/C#/TypeConversion/TypeConversion/obj/x86/Debug/TypeConversion.pdb
