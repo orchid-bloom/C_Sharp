@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{038569A8-E697-4884-8C61-697B04E3A487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{038569A8-E697-4884-8C61-697B04E3A487}.Debug|x86.ActiveCfg = Debug|x86
+		{038569A8-E697-4884-8C61-697B04E3A487}.Debug|x86.Build.0 = Debug|x86
+		{038569A8-E697-4884-8C61-697B04E3A487}.Release|x86.ActiveCfg = Release|x86
+		{038569A8-E697-4884-8C61-697B04E3A487}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

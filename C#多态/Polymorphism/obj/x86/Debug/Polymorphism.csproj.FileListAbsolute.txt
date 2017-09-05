@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#多态/Polymorphism/bin/Debug/Polymorphism.exe
+/Users/tianXin/C_Sharp/C#多态/Polymorphism/bin/Debug/Polymorphism.pdb
+/Users/tianXin/C_Sharp/C#多态/Polymorphism/obj/x86/Debug/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#多态/Polymorphism/obj/x86/Debug/Polymorphism.exe
+/Users/tianXin/C_Sharp/C#多态/Polymorphism/obj/x86/Debug/Polymorphism.pdb

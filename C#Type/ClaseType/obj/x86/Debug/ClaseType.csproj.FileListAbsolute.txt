@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#Type/ClaseType/bin/Debug/ClaseType.exe
+/Users/tianXin/C_Sharp/C#Type/ClaseType/bin/Debug/ClaseType.pdb
+/Users/tianXin/C_Sharp/C#Type/ClaseType/obj/x86/Debug/ClaseType.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#Type/ClaseType/obj/x86/Debug/ClaseType.exe
+/Users/tianXin/C_Sharp/C#Type/ClaseType/obj/x86/Debug/ClaseType.pdb

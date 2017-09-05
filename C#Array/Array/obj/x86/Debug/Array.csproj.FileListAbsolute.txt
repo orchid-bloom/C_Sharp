@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#Array/Array/bin/Debug/Array.exe
+/Users/tianXin/C_Sharp/C#Array/Array/bin/Debug/Array.pdb
+/Users/tianXin/C_Sharp/C#Array/Array/obj/x86/Debug/Array.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#Array/Array/obj/x86/Debug/Array.exe
+/Users/tianXin/C_Sharp/C#Array/Array/obj/x86/Debug/Array.pdb

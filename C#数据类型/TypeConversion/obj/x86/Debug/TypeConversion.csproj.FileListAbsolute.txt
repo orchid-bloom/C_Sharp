@@ -3,3 +3,8 @@
 /Users/tianXin/C#/TypeConversion/TypeConversion/obj/x86/Debug/TypeConversion.csproj.CoreCompileInputs.cache
 /Users/tianXin/C#/TypeConversion/TypeConversion/obj/x86/Debug/TypeConversion.exe
 /Users/tianXin/C#/TypeConversion/TypeConversion/obj/x86/Debug/TypeConversion.pdb
+/Users/tianXin/C_Sharp/C#数据类型/TypeConversion/obj/x86/Debug/TypeConversion.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#数据类型/TypeConversion/obj/x86/Debug/TypeConversion.exe
+/Users/tianXin/C_Sharp/C#数据类型/TypeConversion/obj/x86/Debug/TypeConversion.pdb
+/Users/tianXin/C_Sharp/C#数据类型/TypeConversion/bin/Debug/TypeConversion.exe
+/Users/tianXin/C_Sharp/C#数据类型/TypeConversion/bin/Debug/TypeConversion.pdb

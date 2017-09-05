@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#循环/Cycle/bin/Debug/Cycle.exe
+/Users/tianXin/C_Sharp/C#循环/Cycle/bin/Debug/Cycle.pdb
+/Users/tianXin/C_Sharp/C#循环/Cycle/obj/x86/Debug/Cycle.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#循环/Cycle/obj/x86/Debug/Cycle.exe
+/Users/tianXin/C_Sharp/C#循环/Cycle/obj/x86/Debug/Cycle.pdb

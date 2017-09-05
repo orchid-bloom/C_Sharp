@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#方法/Method/bin/Debug/Method.exe
+/Users/tianXin/C_Sharp/C#方法/Method/bin/Debug/Method.pdb
+/Users/tianXin/C_Sharp/C#方法/Method/obj/x86/Debug/Method.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#方法/Method/obj/x86/Debug/Method.exe
+/Users/tianXin/C_Sharp/C#方法/Method/obj/x86/Debug/Method.pdb

@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#封装/Package/bin/Debug/Package.exe
+/Users/tianXin/C_Sharp/C#封装/Package/bin/Debug/Package.pdb
+/Users/tianXin/C_Sharp/C#封装/Package/obj/x86/Debug/Package.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#封装/Package/obj/x86/Debug/Package.exe
+/Users/tianXin/C_Sharp/C#封装/Package/obj/x86/Debug/Package.pdb

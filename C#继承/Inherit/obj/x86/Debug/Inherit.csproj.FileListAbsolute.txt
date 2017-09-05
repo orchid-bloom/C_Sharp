@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#继承/Inherit/bin/Debug/Inherit.exe
+/Users/tianXin/C_Sharp/C#继承/Inherit/bin/Debug/Inherit.pdb
+/Users/tianXin/C_Sharp/C#继承/Inherit/obj/x86/Debug/Inherit.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#继承/Inherit/obj/x86/Debug/Inherit.exe
+/Users/tianXin/C_Sharp/C#继承/Inherit/obj/x86/Debug/Inherit.pdb

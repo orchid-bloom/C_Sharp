@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#String/String/bin/Debug/String.exe
+/Users/tianXin/C_Sharp/C#String/String/bin/Debug/String.pdb
+/Users/tianXin/C_Sharp/C#String/String/obj/x86/Debug/String.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#String/String/obj/x86/Debug/String.exe
+/Users/tianXin/C_Sharp/C#String/String/obj/x86/Debug/String.pdb
