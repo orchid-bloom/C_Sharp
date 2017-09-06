@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#Namespace/Namespace/obj/x86/Debug/Namespace.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#Namespace/Namespace/bin/Debug/Namespace.exe
+/Users/tianXin/C_Sharp/C#Namespace/Namespace/bin/Debug/Namespace.pdb
+/Users/tianXin/C_Sharp/C#Namespace/Namespace/obj/x86/Debug/Namespace.exe
+/Users/tianXin/C_Sharp/C#Namespace/Namespace/obj/x86/Debug/Namespace.pdb

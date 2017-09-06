@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#预处理器指令/Directive/obj/x86/Debug/Directive.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#预处理器指令/Directive/bin/Debug/Directive.exe
+/Users/tianXin/C_Sharp/C#预处理器指令/Directive/bin/Debug/Directive.pdb
+/Users/tianXin/C_Sharp/C#预处理器指令/Directive/obj/x86/Debug/Directive.exe
+/Users/tianXin/C_Sharp/C#预处理器指令/Directive/obj/x86/Debug/Directive.pdb

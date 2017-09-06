@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#Property/Property/obj/x86/Debug/Property.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#Property/Property/bin/Debug/Property.exe
+/Users/tianXin/C_Sharp/C#Property/Property/bin/Debug/Property.pdb
+/Users/tianXin/C_Sharp/C#Property/Property/obj/x86/Debug/Property.exe
+/Users/tianXin/C_Sharp/C#Property/Property/obj/x86/Debug/Property.pdb

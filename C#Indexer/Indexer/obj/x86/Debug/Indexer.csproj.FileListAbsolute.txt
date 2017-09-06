@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#Indexer/Indexer/obj/x86/Debug/Indexer.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#Indexer/Indexer/bin/Debug/Indexer.exe
+/Users/tianXin/C_Sharp/C#Indexer/Indexer/bin/Debug/Indexer.pdb
+/Users/tianXin/C_Sharp/C#Indexer/Indexer/obj/x86/Debug/Indexer.exe
+/Users/tianXin/C_Sharp/C#Indexer/Indexer/obj/x86/Debug/Indexer.pdb

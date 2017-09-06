@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#Interface/Interface/obj/x86/Debug/Interface.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#Interface/Interface/bin/Debug/Interface.exe
+/Users/tianXin/C_Sharp/C#Interface/Interface/bin/Debug/Interface.pdb
+/Users/tianXin/C_Sharp/C#Interface/Interface/obj/x86/Debug/Interface.exe
+/Users/tianXin/C_Sharp/C#Interface/Interface/obj/x86/Debug/Interface.pdb

@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#Delegate/Delegate/obj/x86/Debug/Delegate.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#Delegate/Delegate/bin/Debug/Delegate.exe
+/Users/tianXin/C_Sharp/C#Delegate/Delegate/bin/Debug/Delegate.pdb
+/Users/tianXin/C_Sharp/C#Delegate/Delegate/obj/x86/Debug/Delegate.exe
+/Users/tianXin/C_Sharp/C#Delegate/Delegate/obj/x86/Debug/Delegate.pdb

@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{1C37F786-ABEF-4004-B45F-7C2594F442A6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="OperatorOverload/Program.cs">
+﻿<Properties StartupConfiguration="{306C746F-74E8-4C93-A4ED-16B8438EF0F7}|Default">
+  <MonoDevelop.Ide.ItemProperties.Event PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Event/Program.cs">
     <Files>
-      <File FileName="OperatorOverload/Program.cs" Line="35" Column="30" />
+      <File FileName="Event/Program.cs" Line="11" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -9,6 +10,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.OperatorOverload PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

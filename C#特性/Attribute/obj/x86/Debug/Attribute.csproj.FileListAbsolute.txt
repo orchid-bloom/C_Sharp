@@ -1,0 +1,1 @@
+/Users/tianXin/C_Sharp/C#特性/Attribute/obj/x86/Debug/Attribute.csproj.CoreCompileInputs.cache

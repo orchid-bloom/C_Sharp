@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#Event/Event/obj/x86/Debug/Event.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#Event/Event/bin/Debug/Event.exe
+/Users/tianXin/C_Sharp/C#Event/Event/bin/Debug/Event.pdb
+/Users/tianXin/C_Sharp/C#Event/Event/obj/x86/Debug/Event.exe
+/Users/tianXin/C_Sharp/C#Event/Event/obj/x86/Debug/Event.pdb
