@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#多线程/Multithreading/bin/Debug/Multithreading.exe
+/Users/tianXin/C_Sharp/C#多线程/Multithreading/bin/Debug/Multithreading.pdb
+/Users/tianXin/C_Sharp/C#多线程/Multithreading/obj/x86/Debug/Multithreading.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#多线程/Multithreading/obj/x86/Debug/Multithreading.exe
+/Users/tianXin/C_Sharp/C#多线程/Multithreading/obj/x86/Debug/Multithreading.pdb

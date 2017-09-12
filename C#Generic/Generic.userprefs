@@ -1,8 +1,7 @@
-﻿<Properties StartupConfiguration="{306C746F-74E8-4C93-A4ED-16B8438EF0F7}|Default">
-  <MonoDevelop.Ide.ItemProperties.Event PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Event/Program.cs">
+﻿<Properties StartupConfiguration="{BB7E3551-0B55-400E-9CC8-CB45EEC2DB5D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Generic/Program.cs">
     <Files>
-      <File FileName="Event/Program.cs" Line="107" Column="13" />
+      <File FileName="Generic/Program.cs" Line="83" Column="64" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -10,5 +9,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Generic PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

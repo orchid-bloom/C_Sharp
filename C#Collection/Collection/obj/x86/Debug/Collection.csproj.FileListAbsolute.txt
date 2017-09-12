@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#Collection/Collection/bin/Debug/Collection.exe
+/Users/tianXin/C_Sharp/C#Collection/Collection/bin/Debug/Collection.pdb
+/Users/tianXin/C_Sharp/C#Collection/Collection/obj/x86/Debug/Collection.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#Collection/Collection/obj/x86/Debug/Collection.exe
+/Users/tianXin/C_Sharp/C#Collection/Collection/obj/x86/Debug/Collection.pdb

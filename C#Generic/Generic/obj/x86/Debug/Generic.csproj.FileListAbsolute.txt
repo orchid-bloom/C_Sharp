@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#泛型/Generic/bin/Debug/Generic.exe
+/Users/tianXin/C_Sharp/C#泛型/Generic/bin/Debug/Generic.pdb
+/Users/tianXin/C_Sharp/C#泛型/Generic/obj/x86/Debug/Generic.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#泛型/Generic/obj/x86/Debug/Generic.exe
+/Users/tianXin/C_Sharp/C#泛型/Generic/obj/x86/Debug/Generic.pdb

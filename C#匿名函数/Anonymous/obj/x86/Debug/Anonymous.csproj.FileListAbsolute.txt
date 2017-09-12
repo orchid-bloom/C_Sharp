@@ -1,0 +1,5 @@
+/Users/tianXin/C_Sharp/C#匿名函数/Anonymous/bin/Debug/Anonymous.exe
+/Users/tianXin/C_Sharp/C#匿名函数/Anonymous/bin/Debug/Anonymous.pdb
+/Users/tianXin/C_Sharp/C#匿名函数/Anonymous/obj/x86/Debug/Anonymous.csproj.CoreCompileInputs.cache
+/Users/tianXin/C_Sharp/C#匿名函数/Anonymous/obj/x86/Debug/Anonymous.exe
+/Users/tianXin/C_Sharp/C#匿名函数/Anonymous/obj/x86/Debug/Anonymous.pdb
